@@ -31,5 +31,8 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 <br/>
 </picture>
 <div align="center">
-  <img src="https://github.com/NgSao/NgSao/blob/main/dino.gif" alt="dino game" style="height:300px;">
+  <a href="https://chromedino.com" target="_blank">
+    <img src="https://github.com/NgSao/NgSao/blob/main/dino.gif" alt="dino game" style="height:300px;">
+  </a>
 </div>
+
