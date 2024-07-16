@@ -10,8 +10,10 @@
 </div>
 
 ## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
-
+<div align="justify">
 I am a passionate Fullstack Developer with a strong foundation in both frontend and backend technologies. A Versatile Developer Specializing in <strong> ReactJS, Laravel, PHP ,Java and Spring boot</strong>. with a Passion for Continuous Learning. My expertise lies in integration, improving user interfaces, and enhancing overall user experiences. I thrive on solving challenging problems and creating innovative solutions.
+</div>
+<div align="center">
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -25,5 +27,9 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
+  </div>
+<br/>
 </picture>
-[![](https://github.com/NgSao/NgSao/blob/main/dino.gif)](https://chromedino.com)
+<div align="center">
+  <img src="https://github.com/NgSao/NgSao/blob/main/dino.gif" alt="dino game" style="height:300px;">
+</div>
