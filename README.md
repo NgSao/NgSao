@@ -26,3 +26,4 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+[![](https://github.com/NgSao/NgSao/blob/main/dino.gif)](https://chromedino.com)
