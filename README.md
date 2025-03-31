@@ -1,4 +1,4 @@
-public class SaoNguyen {
+public class Readme {
     public static void main(String[] args) {
         System.out.println("👋 Xin chào! Tôi là Nguyễn Sao");
         System.out.println("🚀 Fullstack Developer | Spring Boot | React Native");
