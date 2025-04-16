@@ -1,9 +1,9 @@
-#  About Me:
+# About Me:
 🚀 **Nguyen Sao** | Spring Backend Developer  
-🔹 IT Student @ Ho Chi Minh City College of Industry and Trade| Major: Software Engineering
-🔹 Skilled in Java, Spring Boot, RESTful APIs, SQL/NoSQL, Kafka, Redis
-🔹 Proficient in ReactNative, ReactJs, HTML, CSS, JavaScript
-🔹 Hands-on with Git, Docker, Postman
+🔹 IT Student @ Ho Chi Minh City College of Industry and Trade | Major: Software Engineering  
+🔹 Skilled in Java, Spring Boot, RESTful APIs, SQL/NoSQL, Kafka, Redis  
+🔹 Proficient in ReactNative, ReactJs, HTML, CSS, JavaScript  
+🔹 Hands-on with Git, Docker, Postman  
 
 ---
 
