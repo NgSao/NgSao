@@ -44,7 +44,7 @@
 ---
 
 ## 📫 Contact Me
-- Email: [nguyensao@example.com](mailto:nguyensaovn2019@gmail.com)
+- Email: [nguyensaovn2019@gmail.com](mailto:nguyensaovn2019@gmail.com)
 - LinkedIn: [Nguyễn Sao](https://www.linkedin.com/in/sao-nguy%E1%BB%85n-713655254/)
 - GitHub: [NgSao](https://github.com/NgSao)
 - Zalo: [0392445255](https://zalo.me/0392445255)
