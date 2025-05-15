@@ -18,6 +18,7 @@
 
 ### Databases:
 - ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+- ![SQL Server](https://img.shields.io/badge/sql%20server-%23CC2927.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 - ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
 
 ### Cache:
@@ -25,9 +26,6 @@
 
 ### Message Brokers:
 - ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)  
-
-### Search & Analytics:
-- ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)  
 
 ### DevOps & CI/CD:
 - ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
@@ -60,7 +58,6 @@
   ![User View](https://raw.githubusercontent.com/NgSao/images/main/springboot/1747319829421_z6605450869352_48eac6939ef6561450ad45cf2834e46f.jpg)
 - 🛠️ Admin View:  
   ![Admin View](https://raw.githubusercontent.com/NgSao/images/main/springboot/1747319868388_z6605450976304_1c50510765fa54b379cac9fc824cc8c6.jpg)
-"""
 
 
      
