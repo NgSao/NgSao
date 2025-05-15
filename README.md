@@ -54,8 +54,13 @@
      - Backend: [ecommerce-layered-architecture](https://github.com/NgSao/ecommerce-layered-architecture)  
      - Frontend: [ecommer-app-reactnative](https://github.com/NgSao/ecommer-app-reactnative)  
    - **Demo**: [[Link to demo or screenshot if available](https://drive.google.com/file/d/1MQ-wqnJR7sA9BxXG04iXred4Py6jSIMp/view?usp=drive_link)]
+
+**🖼️ Screenshots**:  
+- 👤 User View:  
   ![User View](https://raw.githubusercontent.com/NgSao/images/main/springboot/1747319829421_z6605450869352_48eac6939ef6561450ad45cf2834e46f.jpg)
+- 🛠️ Admin View:  
   ![Admin View](https://raw.githubusercontent.com/NgSao/images/main/springboot/1747319868388_z6605450976304_1c50510765fa54b379cac9fc824cc8c6.jpg)
+"""
 
 
      
